@@ -1,0 +1,5 @@
+remote_theme: pages-themes/midnight@v0.2.0
+title: VIM Quick Reference
+show_downloads: false
+plugins:
+- jekyll-remote-theme
