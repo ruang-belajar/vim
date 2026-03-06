@@ -1,6 +1,5 @@
-# VIM
 ![](res/header.png)
 
-Quick Reference on VIM
+## VIM Quick Reference
 
 1. [Cheatsheet](cheatsheet.md)
